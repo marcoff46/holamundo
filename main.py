@@ -78,7 +78,7 @@ def agenda():      #Este programa sirve para agregar,modificar,eliminar y consul
 				os.system('clear')
 				continue
 			except:
-				print('¡Dato no valido!')
+				print('Dato no valido')
 				time.sleep(3)
 				os.system('clear')
 				continue
