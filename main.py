@@ -2,9 +2,14 @@ from typing import Optional
 from fastapi import FastAPI
 
 app = FastAPI()
+
 //////////////////////
 
+<<<<<<< HEAD
 v2.0////////////////
+=======
+v2.0/////////////////
+>>>>>>> desarrollo
 @app.get("/")
 def read_root():
     return {"Hello": "World"}
