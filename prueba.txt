@@ -1,2 +1,6 @@
 Archivo de texto
 Añadiendo contenido tras hacer pull
+<<<<<<< HEAD
+=======
+Segunda línea
+>>>>>>> desarrollo
